@@ -1,0 +1,37 @@
+com.example.to_do.app-jetified-annotation-experimental-1.3.0-0 C:\Users\m\.gradle\caches\transforms-3\06aeb9299cc29b6cb22dd8505726d992\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.to_do.app-jetified-play-services-base-18.1.0-1 C:\Users\m\.gradle\caches\transforms-3\08bb63ac15c4bdb17990422d1f43c6d0\transformed\jetified-play-services-base-18.1.0\res
+com.example.to_do.app-jetified-lifecycle-process-2.4.1-2 C:\Users\m\.gradle\caches\transforms-3\109f403d9e33d4ced2c794d3c6ef586e\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.to_do.app-jetified-startup-runtime-1.1.1-3 C:\Users\m\.gradle\caches\transforms-3\2e2172b9becc78681e6acbf4b0a4caf2\transformed\jetified-startup-runtime-1.1.1\res
+com.example.to_do.app-jetified-emoji2-1.2.0-4 C:\Users\m\.gradle\caches\transforms-3\38a9ccc75f2b23093565ddf5397bd43c\transformed\jetified-emoji2-1.2.0\res
+com.example.to_do.app-jetified-core-ktx-1.9.0-5 C:\Users\m\.gradle\caches\transforms-3\38d77f3b3dcfc31f984aa28dcbe41ce4\transformed\jetified-core-ktx-1.9.0\res
+com.example.to_do.app-jetified-activity-1.6.0-6 C:\Users\m\.gradle\caches\transforms-3\3945811af46d0ce7f21dd1119a06e894\transformed\jetified-activity-1.6.0\res
+com.example.to_do.app-coordinatorlayout-1.1.0-7 C:\Users\m\.gradle\caches\transforms-3\4389e8bb3002fffddea807719fbd2ed9\transformed\coordinatorlayout-1.1.0\res
+com.example.to_do.app-jetified-window-java-1.0.0-beta04-8 C:\Users\m\.gradle\caches\transforms-3\47ead12b4595f9a7b503a5203fa29872\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.to_do.app-constraintlayout-2.1.4-9 C:\Users\m\.gradle\caches\transforms-3\4c29cb5314528d8bc725166aca0a07bf\transformed\constraintlayout-2.1.4\res
+com.example.to_do.app-appcompat-1.6.1-10 C:\Users\m\.gradle\caches\transforms-3\4cc6e85312dd1657316381a2a92623f2\transformed\appcompat-1.6.1\res
+com.example.to_do.app-jetified-window-1.0.0-beta04-11 C:\Users\m\.gradle\caches\transforms-3\4e1f343991b7ff37aeb9fde8b27c578e\transformed\jetified-window-1.0.0-beta04\res
+com.example.to_do.app-jetified-savedstate-1.2.0-12 C:\Users\m\.gradle\caches\transforms-3\50d76cbdea15158c64f12e29a3e95fcb\transformed\jetified-savedstate-1.2.0\res
+com.example.to_do.app-transition-1.2.0-13 C:\Users\m\.gradle\caches\transforms-3\5b43cb52d1a30c9a1d718a120f14e052\transformed\transition-1.2.0\res
+com.example.to_do.app-lifecycle-viewmodel-2.5.1-14 C:\Users\m\.gradle\caches\transforms-3\6554b952e26e82b2140c3486747c4bb2\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.to_do.app-jetified-appcompat-resources-1.6.1-15 C:\Users\m\.gradle\caches\transforms-3\7543433a217ff123a96e6972bd0a3c42\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.to_do.app-drawerlayout-1.1.1-16 C:\Users\m\.gradle\caches\transforms-3\8496c451322ad86a3c9ee98551a29e98\transformed\drawerlayout-1.1.1\res
+com.example.to_do.app-material-1.9.0-17 C:\Users\m\.gradle\caches\transforms-3\9060988e9b1b492ad9595a7f8488725f\transformed\material-1.9.0\res
+com.example.to_do.app-recyclerview-1.1.0-18 C:\Users\m\.gradle\caches\transforms-3\9de93cb5f63adf9c32430b746d6263e9\transformed\recyclerview-1.1.0\res
+com.example.to_do.app-jetified-play-services-basement-18.1.0-19 C:\Users\m\.gradle\caches\transforms-3\a108a206bdb04c5ced467e09bae6a7a5\transformed\jetified-play-services-basement-18.1.0\res
+com.example.to_do.app-cardview-1.0.0-20 C:\Users\m\.gradle\caches\transforms-3\b19ac65739db67ec9018664a12d3e2ac\transformed\cardview-1.0.0\res
+com.example.to_do.app-lifecycle-livedata-core-2.5.1-21 C:\Users\m\.gradle\caches\transforms-3\b452f806e11dc563ffe10d1215adef34\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.to_do.app-lifecycle-runtime-2.5.1-22 C:\Users\m\.gradle\caches\transforms-3\c2626a78453c15e0c3f8b60453138e12\transformed\lifecycle-runtime-2.5.1\res
+com.example.to_do.app-core-1.9.0-23 C:\Users\m\.gradle\caches\transforms-3\db701b0c70aeb55670322f23e213a287\transformed\core-1.9.0\res
+com.example.to_do.app-jetified-emoji2-views-helper-1.2.0-24 C:\Users\m\.gradle\caches\transforms-3\ddac36c6af3702c80b0a1a369720bbd5\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.to_do.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-25 C:\Users\m\.gradle\caches\transforms-3\e94394efedc21fc90e75dd3d4363bcac\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.to_do.app-fragment-1.3.6-26 C:\Users\m\.gradle\caches\transforms-3\f9a63fbcff410d1cba063b188105fb08\transformed\fragment-1.3.6\res
+com.example.to_do.app-jetified-viewpager2-1.0.0-27 C:\Users\m\.gradle\caches\transforms-3\fdfb82c952a84e8d8758914b0b1d6e41\transformed\jetified-viewpager2-1.0.0\res
+com.example.to_do.app-packaged_res-28 C:\Users\m\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.3\android\build\intermediates\packaged_res\debug
+com.example.to_do.app-packaged_res-29 C:\Users\m\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\build\intermediates\packaged_res\debug
+com.example.to_do.app-pngs-30 D:\Flutter\Flutter Projects\to_do\android\app\build\generated\res\pngs\debug
+com.example.to_do.app-resValues-31 D:\Flutter\Flutter Projects\to_do\android\app\build\generated\res\resValues\debug
+com.example.to_do.app-packageDebugResources-32 D:\Flutter\Flutter Projects\to_do\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.to_do.app-packageDebugResources-33 D:\Flutter\Flutter Projects\to_do\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.to_do.app-merged_res-34 D:\Flutter\Flutter Projects\to_do\android\app\build\intermediates\merged_res\debug
+com.example.to_do.app-debug-35 D:\Flutter\Flutter Projects\to_do\android\app\src\debug\res
+com.example.to_do.app-main-36 D:\Flutter\Flutter Projects\to_do\android\app\src\main\res
